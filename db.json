@@ -25,30 +25,6 @@
           "name": "WiFi de Alta Velocidad",
           "icon": "",
           "description": ""
-        },
-        {
-          "id": 0,
-          "name": "Café y Snacks",
-          "icon": "",
-          "description": ""
-        },
-        {
-          "id": 0,
-          "name": "Estacionamiento",
-          "icon": "",
-          "description": ""
-        },
-        {
-          "id": 0,
-          "name": "Sala de Reuniones",
-          "icon": "",
-          "description": ""
-        },
-        {
-          "id": 0,
-          "name": "",
-          "icon": "",
-          "description": ""
         }
       ]
     },
@@ -84,24 +60,6 @@
           "name": "Café y Snacks",
           "icon": "coffee",
           "description": "Servicio de café, té y snacks ilimitados durante tu estadía"
-        },
-        {
-          "id": 4,
-          "name": "Aire Acondicionado",
-          "icon": "air",
-          "description": "Sistema de climatización central para tu comodidad"
-        },
-        {
-          "id": 6,
-          "name": "Impresora/Escáner",
-          "icon": "printer",
-          "description": "Equipos de impresión y escaneo disponibles"
-        },
-        {
-          "id": 7,
-          "name": "Recepción",
-          "icon": "reception",
-          "description": "Servicio de recepción y gestión de correspondencia"
         }
       ]
     },
@@ -137,18 +95,6 @@
           "name": "Café y Snacks",
           "icon": "coffee",
           "description": "Servicio de café, té y snacks ilimitados durante tu estadía"
-        },
-        {
-          "id": 3,
-          "name": "Estacionamiento",
-          "icon": "car",
-          "description": "Espacios de estacionamiento disponibles para inquilinos"
-        },
-        {
-          "id": 8,
-          "name": "Proyector/Pantalla",
-          "icon": "projector",
-          "description": "Equipamiento audiovisual profesional para presentaciones"
         }
       ]
     },
@@ -184,12 +130,6 @@
           "name": "Café y Snacks",
           "icon": "coffee",
           "description": "Servicio de café, té y snacks ilimitados durante tu estadía"
-        },
-        {
-          "id": 6,
-          "name": "Impresora/Escáner",
-          "icon": "printer",
-          "description": "Equipos de impresión y escaneo disponibles"
         }
       ]
     },
@@ -222,12 +162,6 @@
         {
           "id": 0,
           "name": "Café y Snacks",
-          "icon": "",
-          "description": ""
-        },
-        {
-          "id": 0,
-          "name": "Aire Acondicionado",
           "icon": "",
           "description": ""
         }
